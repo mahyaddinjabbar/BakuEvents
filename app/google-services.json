@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1050560657154",
+    "project_id": "baku-events",
+    "storage_bucket": "baku-events.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050560657154:android:9b9096c17395a1c1f3341b",
+        "android_client_info": {
+          "package_name": "com.mahyaddin.bakuevents"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe87Y54GLA0nDa9rCSNRAk08idulQZYN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
